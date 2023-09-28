@@ -1,0 +1,28 @@
+.Titulo{
+display:inline; 
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(68, 68, 227);
+}
+p{
+    color: rgb(99, 28, 28);
+}
+a{
+    color: rgb(38, 5, 255) ;
+    
+}
+.menu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14.5px;
+    color: rgb(0, 0, 0);
+}
+.button{
+    color: rgb(255, 4, 4);
+    background-color: rgb(68, 68, 227);
+}
+body{
+    background-color: rgb(183, 180, 226);
+}
+td{
+  color: rgb(99, 28, 28);  
+}
