@@ -26,3 +26,6 @@ body{
 td{
   color: rgb(99, 28, 28);  
 }
+div{
+    border: 2px solid black;
+}
